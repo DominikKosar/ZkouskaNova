@@ -12,6 +12,7 @@ namespace TestGitu
         private void button1_Click(object sender, EventArgs e)
         {
             Debug.Write("Ahoj chlapeee");
+            Debug.Write("Dalsi text, zkouska vìtví");
         }
     }
 }
