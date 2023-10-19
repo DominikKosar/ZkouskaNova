@@ -13,6 +13,8 @@ namespace TestGitu
         {
             Debug.Write("Ahoj chlapeee");
             Debug.Write("Dalsi text, zkouska vìtví");
+            int cislo = 0;
+            cislo += 8;
         }
     }
 }
