@@ -15,6 +15,8 @@ namespace TestGitu
             Debug.Write("Dalsi text, zkouska vìtví");
             int cislo = 0;
             cislo += 8;
+            int cislo2 = 0;
+            cislo2 += cislo;
         }
     }
 }
